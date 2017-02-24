@@ -1,0 +1,19 @@
+/* line 1, ../sass/daily_a.sass */
+.beacon {
+  width: 1px;
+  opacity: 0;
+}
+
+/* line 5, ../sass/daily_a.sass */
+.desc {
+  font-family: arial, sans-serif;
+}
+/* line 7, ../sass/daily_a.sass */
+.desc p {
+  display: inline;
+}
+
+/* line 11, ../sass/daily_a.sass */
+.others-node .node-wrapper {
+  margin-bottom: 30px;
+}
